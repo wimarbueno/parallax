@@ -1,0 +1,20 @@
+.contenedor{display: block;width: 960px;margin: 0 auto;position: relative;}
+header nav .menu{}
+header nav .menu li{display: inline-block;}
+header nav .menu li a{display: block;padding: 5px;}
+
+main{padding: 20px 0;}
+main section{}
+main section article{padding: 10px;}
+main section article h2{}
+main section article .bg{}
+
+
+#main{}
+#content{}
+#nosotros{background: url("../img/firstBG.jpg") no-repeat fixed 50% 0 rgba(0, 0, 0, 0);color: white;/*height: 600px;*/margin: 0 auto;}
+#servicios{background: url("../img/secondBG.jpg") no-repeat fixed 50% 0 rgba(0, 0, 0, 0);color: white;height: 1300px;margin: 0 auto;overflow: hidden;}
+#portafolio{background: url("../img/thirdBG.jpg") no-repeat fixed 50% 0 rgba(0, 0, 0, 0);color: white;height: 650px;}
+#contacto{background: url("../img/natalia_contreras.jpg") no-repeat fixed 0 0 #ccc;height: 1080px;margin: 0 auto;padding-bottom: 100px;}
+
+footer{}
